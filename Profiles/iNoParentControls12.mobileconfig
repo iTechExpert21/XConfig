@@ -321,7 +321,7 @@
 	<key>PayloadDisplayName</key>
 	<string>iNoParentControls12</string>
 	<key>PayloadIdentifier</key>
-	<string>com.applereborn.inoparentcontrols12</string>
+	<string>com.techyisland.inoparentcontrols12</string>
 	<key>PayloadOrganization</key>
 	<string>@_AppleExpert</string>
 	<key>PayloadRemovalDisallowed</key>
@@ -329,7 +329,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>64E7939E-9228-488A-A134-4E05B45F1FF6</string>
+	<string>E76E3A2B-B081-4079-A294-B731FA786216</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 	<key>SignerCerts</key>
